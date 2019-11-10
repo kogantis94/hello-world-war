@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>Hello World Web Application Repository</name>
-	<description>Simplest possible Java Webapp</description>
+	<description>Simplest possible Java Webapplication</description>
 
 	<build>
 		<plugins>
